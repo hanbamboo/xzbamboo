@@ -24,7 +24,8 @@
 	}
 
 	::selection {
-		background-color: var(--primary-blue);
+		background-color: var(--primary-main);
 		color: var(--white);
 	}
+
 </style>
