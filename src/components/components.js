@@ -6,6 +6,7 @@ import Memory from '@/components/Memory/memory.vue';
 import Svg from '@/components/Svg/index.vue';
 import ToolBar from '@/components/User/ToolBar/toolbar.vue';
 import ImageUpload from '@/components/ImageUpload/imageUpload.vue';
+import LabelDatePicker from '@/components/LabelDatePicker/labelDatePicker.vue';
 
 const components = {
     SvgIcon,
@@ -16,6 +17,7 @@ const components = {
     Svg,
     ToolBar,
     ImageUpload,
+    LabelDatePicker,
 };
 
 export default {

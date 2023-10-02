@@ -10,6 +10,8 @@ import '@/assets/css/element-variables.scss'
 import store from "@/core/services/store/store.js";
 import gloablComponent from '@/components/components.js';
 import 'virtual:svg-icons-register'
+import 'default-passive-events'
+
 
 const app = createApp(App)
 
